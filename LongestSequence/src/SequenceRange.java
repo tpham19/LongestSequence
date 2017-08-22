@@ -1,4 +1,3 @@
-
 public class SequenceRange {
 	public int matchingOnLeft, matchingOnRight;
 	public int longestRange, sequenceLength;
